@@ -1,5 +1,5 @@
 
-def IncrementoAlSalarioDeUnProfesor():
+def incrementoAlSalarioDeUnProfesor():
     for i in range(1,7):
         print("PROCESO ",i)
         salario_inicial = 1400
@@ -9,4 +9,4 @@ def IncrementoAlSalarioDeUnProfesor():
         print("Valor de salario recibido: ",salario_recibido)
         print("Valor de año: ",ano)
         print("")
-IncrementoAlSalarioDeUnProfesor()
+incrementoAlSalarioDeUnProfesor()
