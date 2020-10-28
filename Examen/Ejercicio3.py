@@ -1,3 +1,4 @@
+def TiposVacunas():
 if __name__ == '__main__':
 	g = float()
 	h = float()
@@ -12,3 +13,5 @@ if __name__ == '__main__':
 	vacunaa = (h+69)+(g-16)
 	vacunab = (m+69)
 	vacunac = g+70
+    TiposVacuna():
+    
