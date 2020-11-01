@@ -12,4 +12,3 @@ if __name__ == '__main__':
 			if puntos>=151:
 				bono = salario*0.8
 	print("Bono:",bono)
-
