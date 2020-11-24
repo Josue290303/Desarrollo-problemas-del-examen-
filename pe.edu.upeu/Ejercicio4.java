@@ -1,5 +1,4 @@
-public class Ejercicio4 {
-    class perfecto {
+class perfecto {
     public static void main(String args[]) {
         int numero=6;
         int sumas=1, menor=2, Mayor=numero;
@@ -18,5 +17,3 @@ public class Ejercicio4 {
         }
     }
 }
-
-} 
